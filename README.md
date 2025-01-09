@@ -6,6 +6,7 @@ A lightweight script that simulates mouse movement to keep your screen awake. Si
 
 This script uses `xdotool`. Make sure it is installed on your system:
 ```bash
+sudo apt update
 sudo apt-get install xdotool
 ```
 
