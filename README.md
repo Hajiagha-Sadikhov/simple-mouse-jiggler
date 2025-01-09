@@ -13,7 +13,7 @@ sudo apt-get install xdotool
 
 1. Clone the repository:
     ```bash
-    https://github.com/Hajiagha-Sadikhov/simple-mouse-jiggler
+    git clone https://github.com/Hajiagha-Sadikhov/simple-mouse-jiggler
     simple-mouse-jiggler
     ```
 
