@@ -38,4 +38,3 @@ The script will notify you when it starts or stops via a desktop notification (r
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
