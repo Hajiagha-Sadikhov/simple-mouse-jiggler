@@ -15,12 +15,12 @@ sudo apt-get install xdotool
 1. Clone the repository:
     ```bash
     git clone https://github.com/Hajiagha-Sadikhov/simple-mouse-jiggler
-    simple-mouse-jiggler
+    cd simple-mouse-jiggler
     ```
 
 2. Make the script executable:
     ```bash
-    chmod +x keep_awake.sh
+    sudo chmod +x keep_awake.sh
     ```
 
 ## Usage
